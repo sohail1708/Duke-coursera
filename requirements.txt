@@ -1,0 +1,8 @@
+azure-identity
+langchain
+azure-search-documents
+openai
+python-dotenv
+fastapi
+uvicorn[standard]
+tiktoken
